@@ -82,7 +82,8 @@ End the HTML structure.
 </html>
 ``````
 ## OUTPUT
-![Alt text](image.png)
+![image](https://github.com/PRASHANTHRATHI/ODD23-24-WT-JavaScript/assets/145743120/11fbf151-8048-4953-9b56-adbe7e71f3cd)
+
 
 ## RESULT:
 Thus the java code executed to calculate the electricity bill.
@@ -159,7 +160,8 @@ End the HTML structure.
 </html>
 ``````
 ## OUTPUT
-![Alt text](image-1.png)
+![image](https://github.com/PRASHANTHRATHI/ODD23-24-WT-JavaScript/assets/145743120/7d9f5c5f-7420-46d4-a9b6-84e177b93f1d)
+
 
 ## RESULT
 Thus the java code executed to compute the factorial of a given number without recursion.
@@ -243,7 +245,8 @@ End the HTML structure.
 </html>
 ``````
 ## OUTPUT
-![Alt text](image-2.png)
+![image](https://github.com/PRASHANTHRATHI/ODD23-24-WT-JavaScript/assets/145743120/6796c7b8-b610-43a8-be1c-6d7e2ad2529b)
+
 
 ## RESULT
 Thus the java code executed to construct a JavaScript code to generate ‘N’ prime numbers.
@@ -341,7 +344,9 @@ End the HTML structure.
 </html>
 ``````
 ## OUTPUT
-![Alt text](image-3.png)
+
+![image](https://github.com/PRASHANTHRATHI/ODD23-24-WT-JavaScript/assets/145743120/6c5c1018-3c1f-44d4-8f0e-fca5d8caa8b9)
+
 
 ## RESULT
 Thus the java code executed to implement a simple calculator.
@@ -440,7 +445,9 @@ Simple Text Editor using JavaScript
 </html>
 ``````
 ## OUTPUT
-![Alt text](image-4.png)
+
+![image](https://github.com/PRASHANTHRATHI/ODD23-24-WT-JavaScript/assets/145743120/1180226f-d96f-4229-be1d-993be0fc64e9)
+
 
 ## RESULT
 Thus the java code executed to design a simple text editor JavaScript application where we can manipulate the user input in different styles, edit the input, capitalize, and many string operations.
@@ -557,7 +564,9 @@ End the HTML structure.
 </html>
 ``````
 ## OUTPUT
-![Alt text](image-5.png)
+
+![image](https://github.com/PRASHANTHRATHI/ODD23-24-WT-JavaScript/assets/145743120/82068a3e-3a4a-45e5-8a6f-2af7eec84337)
+
 
 ## RESULT
 Thus the java code executed to design a JavaScript program which displays error messages when a field in form is entered incorrectly.
